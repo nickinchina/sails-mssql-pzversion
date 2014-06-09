@@ -1,12 +1,12 @@
 {
-  "name": "sails-mssql",
+  "name": "sails-mssql-pz",
   "version": "0.1.1",
   "description": "MSSQL Adapter for Sails.js",
   "main": "lib/adapter.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/sergeibelov/sails-mssql.git"
+    "url": "https://github.com/nickinchina/sails-mssql-pzversion.git"
   },
   "keywords": [
     "orm",
@@ -39,5 +39,5 @@
   },
   "_id": "sails-mssql@0.1.1",
   "_from": "sails-mssql@0.1.1",
-  "homepage": "https://github.com/sergeibelov/sails-mssql"
+  "homepage": "https://github.com/nickinchina/sails-mssql-pzversion"
 }
