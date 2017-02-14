@@ -1,5 +1,5 @@
 {
-  "name": "sails-mssql-pz",
+  "name": "sails-mssql-pzversion",
   "version": "0.1.1",
   "description": "MSSQL Adapter for Sails.js",
   "main": "lib/adapter.js",
