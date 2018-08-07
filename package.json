@@ -26,7 +26,7 @@
     "async": "~0.2.9",
     "underscore": "~1.5.2",
     "underscore.string": "~2.3.3",
-    "mssql": "3.3.0"
+    "mssql": "4.0.1"
   },
   "devDependencies": {
     "mocha": "1.10.0",
