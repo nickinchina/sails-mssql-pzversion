@@ -24,8 +24,8 @@
   "readmeFilename": "README.md",
   "dependencies": {
     "async": "~0.2.9",
-    "underscore": "~1.5.2",
-    "underscore.string": "~2.3.3",
+    "underscore": "1.9.1",
+    "underscore.string": ">=3.3.5"
     "mssql": "3.3.0"
   },
   "devDependencies": {
